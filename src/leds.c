@@ -1,5 +1,5 @@
 /************************************************************************************************
-Copyright (c) 2025, Agustin Jesus Vazquez <vazqueza193@gmail.com>
+Copyright (c) 2025, Agustin Jesus Vazquez <vazquezagostino@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
 associated documentation files (the "Software"), to deal in the Software without restriction,
